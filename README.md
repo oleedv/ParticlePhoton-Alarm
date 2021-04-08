@@ -20,7 +20,8 @@ Parts needed:
 * Breadboard
 
 Follow this schematic: <br>
-[Fritzing](https://i.imgur.com/ffz09w8.jpg)
+![Fritzing](https://i.imgur.com/ffz09w8.jpg)
+
 
 Uploading the code to Particle Photon can be done in two ways, either via particle photons cloud IDE or visual studio codes.
 'Particle Workbench' extension. https://www.particle.io/workbench#installation
