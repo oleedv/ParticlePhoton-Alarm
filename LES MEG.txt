@@ -1,0 +1,9 @@
+.Particle Workbench VS er bare koden tatt rett fra Visual studio kode,
+for å åpne denne trenger du Particle Workbench extension fra visual studio kode. 
+https://www.particle.io/workbench#installation
+
+For å åpne Serial monitor i Particle Workbench må du åpne 
+command palette ved å cmd+shift+p på macOS eller ctrl+shift+p på Linux eller Windows.
+Hvis det ikke funker så kan du cd inn med terminal og skrive inn: 
+"particle serial monitor --follow". Må ha Particle CLI installert for det. 
+https://docs.particle.io/tutorials/developer-tools/cli/
