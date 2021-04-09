@@ -3,7 +3,7 @@ This is an embedded system project; the project's goal is to create an alarm sys
 It will also sound an alarm and send an IR signal or LED strips, making them flash blue and red.
 
 Video of a demo is TBA
-##Project status
+## Project status
 <b>This project is not supported but should work anyways.</b>
 
 ## Installation
